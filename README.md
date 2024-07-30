@@ -6,4 +6,4 @@ You can either use the exe file which is a lot simpler OR you can use the progra
 
 ```pip install pathlib``` , ```pip install os```,```pip install shutil```
 
-https://cdn.discordapp.com/attachments/1252753061047177249/1267977289514352720/D5rBKt3.jpg?ex=66aabf5f&is=66a96ddf&hm=8f6425881b8f7633c3115c05a339facd100367d60ee57df8670e94585a2fc8f2&
+![alt text](https://cdn.discordapp.com/attachments/1252753061047177249/1267977289514352720/D5rBKt3.jpg?ex=66aabf5f&is=66a96ddf&hm=8f6425881b8f7633c3115c05a339facd100367d60ee57df8670e94585a2fc8f2&)
