@@ -5,6 +5,7 @@ This app helps you to manage the files in your downloads folder by organizing ea
 I am still working on updating the .exe file but the python version has some quality of life fixes like:
 
 Creating only one directory pertaining to the specific filetypes you want to organize.
+
 A more modern design.
 
 You can either use the exe file which is a lot simpler OR you can use the program with python by itself, you will have to install the dependencies if you take this route which includes: 
