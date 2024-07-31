@@ -11,4 +11,4 @@ You can either use the exe file which is a lot simpler OR you can use the progra
 
 ```pip install pathlib``` , ```pip install os```,```pip install shutil``` , ```pip install ttkbootstrap```
 
-![alt text]([https://cdn.discordapp.com/attachments/1267978337834242079/1268330445825638430/0U39WFf.png?ex=66ac0846&is=66aab6c6&hm=7b98a27da63731a5c9e20d1cd95b0610e75e234ba97ef1c1c542efd7875930ea&])
+![alt text](https://cdn.discordapp.com/attachments/1267978337834242079/1268330445825638430/0U39WFf.png?ex=66ac0846&is=66aab6c6&hm=7b98a27da63731a5c9e20d1cd95b0610e75e234ba97ef1c1c542efd7875930ea&)
